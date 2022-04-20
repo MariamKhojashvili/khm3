@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Wizard</string>
+
+    <string name="start_wizard">Start Wizard</string>
+
+    <!-- Select Type -->
+    <string name="select_type_label">Select type of snack</string>
+    <string name="select_type_button1">Ice Cream</string>
+    <string name="select_type_button2">Nuts</string>
+
+    <!-- Ice Cream Serve -->
+    <string name="ice_cream_label">Ice Cream\n\nSelect serve</string>
+    <string name="ice_cream_button1">Scoop</string>
+    <string name="ice_cream_button2">Soft Serve</string>
+
+    <!-- Scoop -->
+    <string name="scoop_label">Scoop selected</string>
+    <string name="scoop_button1">Finish</string>
+    <string name="scoop_button2"/>
+
+    <!-- Choose Topping -->
+    <string name="topping_label">Select a topping</string>
+    <string name="topping_button1">Choc Dip</string>
+    <string name="topping_button2">Sprinkles</string>
+
+    <!-- Choc Dip -->
+    <string name="choc_dip_label">Soft Serve with Choc Dip</string>
+    <string name="choc_dip_button1">Finish</string>
+    <string name="choc_dip_button2"/>
+
+    <!-- Sprinkles -->
+    <string name="sprinkles_label">Soft Serve with Sprinkles</string>
+    <string name="sprinkles_button1">Finish</string>
+    <string name="sprinkles_button2"/>
+
+
+    <!-- Nuts -->
+    <string name="nuts_label">Salted Mixed Nuts</string>
+    <string name="nuts_button1">Finish</string>
+    <string name="nuts_button2"/>
+</resources>
